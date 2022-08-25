@@ -1,0 +1,11 @@
+﻿# Install of “Python 3.7 and so on.
+1. sudo apt-get install build-essential
+2. sudo apt-get install libsqlite3-dev
+3. sudo apt-get install libbz2-dev
+4. CD Python 3.7.0
+5. ./configure
+6. make
+7. sudo make altinstall
+# Open Python environment 
+1. python3.7
+2. idle-python3.7
